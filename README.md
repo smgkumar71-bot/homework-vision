@@ -1,5 +1,6 @@
 # homework-vision
 An AI homework helper chatbot for *Math & Science. Upload a photo or type your question and get step-by-step answers in **English or Kannada*.
+Live App:https://homework-vision-7hev8pmnwvuvjx3dtlnbux.streamlit.app/
 
 ## ✨ Features
 - 📷 Solve questions from a photo or text
