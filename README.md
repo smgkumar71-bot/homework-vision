@@ -9,3 +9,9 @@ An AI homework helper chatbot for *Math & Science. Upload a photo or type your q
 
 ## 🛠️ Tech Stack
 Python, Streamlit, Google Gemini APII chatbot that solves Math &amp; Science homework
+## ▶️ How to Run
+1. Install packages: `pip install -r requirements.txt`
+2. Start the app: `python -m streamlit run app.py`
+
+## 👤 Author
+Kumara B R
